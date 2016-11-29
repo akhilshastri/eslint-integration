@@ -1,0 +1,37 @@
+{
+  "/lib/cocos2d-js-v3.10.js":"./src/lib/cocos2d-js-v3.10.js"
+  ,"/lib/jquery.min.js":"./src/lib/jquery.min.js"
+  ,"/util/nprogress.css":"/node_modules/nprogress/nprogress.css"
+  ,"/util/nprogress.js":"/node_modules/nprogress/nprogress.js"
+
+  ,"/lib/underscore.js":"/node_modules/underscore/underscore-min.js"
+  ,"/util/custom.js":"./src/util/custom.js"
+   ,"/util/custom.css":"./src/util/responsive.css"
+   ,"/util/lightslider.css":"./src/util/lightslider.css"
+   ,"/util/lightslider.js":"./src/util/lightslider.js"
+
+   ,"/util/loader.js":"./src/loader.js"
+
+
+ ,"/pages.json":"./mock-data/pages.json"
+ ,"/project.json":"./mock-data/project.json"
+ ,"/config.json":"./mock-data/config.json"
+ ,"/CGAdminPanel/api/getUserContext":"./mock-data/spin-response.json"
+
+
+ ,"/":"/index.html"
+ ,"/halloween/i/screen.png":"./public/halloween/i/screen.png"
+ ,"/halloween/i/reelLine1.png":"./public/halloween/i/reelLine1.png"
+
+ ,"/res/HelloWorld.png":"./src/res/HelloWorld.png"
+ ,"/res/Background.jpg":"./src/res/Background.jpg"
+ ,"/res/ReelContainer.png":"./src/res/ReelContainer.png"
+ ,"/res/ReelContainer_header.png":"./src/res/ReelContainer_header.png"
+ ,"/res/Paytable1.png":"./src/res/Paytable1.png"
+ ,"/res/Paytable2.png":"./src/res/Paytable2.png"
+ ,"/res/Green.png":"./src/res/Green.png"
+ ,"/res/VioletDark_2.png":"./src/res/VioletDark_2.png"
+ ,"/res/Violet.png":"./src/res/Violet.png"
+
+
+}
